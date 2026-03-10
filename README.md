@@ -1,2 +1,2 @@
-# PROJECT
+# Analysis of a Betting Strategy in a Sport
 PROJECTS FROM ALY 6050 FROM NORTHEASTERN UNIVERSITY
